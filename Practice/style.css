@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    background-color: lightcoral;
+}
+header ul{
+    background-color: red;
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    font-size:25px;
+    overflow:hidden;
+}
+header li{
+    float:left;
+}
+
+header li a{
+    display:block;
+    text-decoration: none;
+    color:white;
+    padding:14px 15px;
+    text-align:center;
+}
+ header li a:hover{
+    background-color: orange;
+    color:black;
+}
+
+                   /* main */
+.text a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+}
+.images{
+    width:50%;
+    margin: 0 auto;
+}
+.fooditem{
+    height:400px;
+    width:400px;
+}
+.labels{
+    margin-left:180px;
+    font-size:30px;
+}
